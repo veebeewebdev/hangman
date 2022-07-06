@@ -1,0 +1,37 @@
+---
+:all_letters_found:
+- - o
+  - 1
+- - o
+  - 5
+- - "n"
+  - 3
+- - "n"
+  - 7
+- - d
+  - 0
+- - w
+  - 2
+- - w
+  - 6
+:incorrect_choices:
+- e
+- r
+- a
+- i
+- u
+- m
+:display_gameboard_array:
+- d
+- o
+- w
+- "n"
+- " _"
+- o
+- w
+- "n"
+:array_of_match_indices:
+- 2
+- 6
+:chosen_word: downtown
+:rounds: 10
